@@ -1,0 +1,7 @@
+$main-color: #aa6;
+
+.container {
+    background-color: $main-color;
+    height: 100px;
+    width: percentage(3 / 5);
+}

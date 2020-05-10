@@ -1,0 +1,1 @@
+To run sass compilation you need to run npm run gulp:sass
